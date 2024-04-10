@@ -6,3 +6,4 @@ This project is a simple QR code generator implemented using HTML, CSS, and Java
     Beautiful Landing 
     Page design.
 # Preview
+https://github.com/dpakdas10/qr-code-generator/blob/main/assets/img/preview.png
